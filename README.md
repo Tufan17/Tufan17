@@ -9,6 +9,8 @@ I'm a Developer(22y) from Kayseri, Turkey 🇹🇷
  👯 I’ve been working on Flutter for 3 year.
  
  👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4).
+ 
+### Connect with me 
 
 <a href="https://twitter.com/memisalitufan" rel="nofollow"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;"></a>
 

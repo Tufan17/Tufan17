@@ -12,11 +12,6 @@ I'm a Developer(22y) from Kayseri, Turkey 🇹🇷
 
 
 
-
-<!--
-**Tufan17/Tufan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+<img src="https://camo.githubusercontent.com/2e0d7e4683ddd7e3f069091df6754c416a6609fc684c2827cf8388d5a65f8bf9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a6166657267756c657230" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Tufan17" style="max-width: 100%;">
 
 

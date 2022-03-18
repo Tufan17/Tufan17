@@ -1,14 +1,12 @@
 ### Hi there , I'm Memiş Ali 👋 
 
-I'm a Developer(22y) from Kayseri, Turkey 🇹🇷
-
+ I'm a Developer(22y) from Kayseri, Turkey 🇹🇷
  🔭 I’m currently working on Tepsi.
- 
  🌱 I’m currently learning everything. 
- 
  👯 I’ve been working on Flutter for 3 year.
- 
  👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4).
+ 
+ 
  
 ### Connect with me 
 

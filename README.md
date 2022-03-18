@@ -1,6 +1,6 @@
 <h1> Hi there , I'm Memiş Ali 👋</h1> 
 
- <li>I'm a Developer(22y) from Kayseri, Turkey 🇹🇷</li>
+ <h5>I'm a Developer(22y) from Kayseri, Turkey 🇹🇷</h5>
  
  <ul>🔭 I’m currently working on Tepsi</ul>
  

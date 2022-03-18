@@ -26,7 +26,7 @@
 
 <a href="https://www.instagram.com/memisalitufan" rel="nofollow"><img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="max-width: 200%;"></a>
 
-
+<br/>
 <h2>My GitHub Stats :bar_chart:</h2>
 
 

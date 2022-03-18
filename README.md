@@ -32,8 +32,3 @@
 
 
 
- <a target="_blank" href="https://camo.githubusercontent.com/d4f2c2b8bef0965f3b95f36ca97e400d43348362ca7d8c8a46b4df5a4c99bf47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61746963696164656d266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874">
-  data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tufan17&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
-
-
-

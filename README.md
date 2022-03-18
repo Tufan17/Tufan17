@@ -2,7 +2,7 @@
 
  <li>I'm a Developer(22y) from Kayseri, Turkey 🇹🇷</li>
  
- 🔭 I’m currently working on Tepsi.
+ <ul>🔭 I’m currently working on Tepsi</ul>
  
  🌱 I’m currently learning everything. 
  

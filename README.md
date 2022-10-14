@@ -8,7 +8,7 @@
  
  <h5>👯 I’ve been working on Flutter for 3 year</h5>
  
- <h5>👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4)</h5>
+ <h5>👩🏻‍💻 I’m studying computer engineering at Erciyes University (4/4)</h5>
  
  
  

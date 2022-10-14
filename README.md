@@ -6,7 +6,7 @@
  
  <h5>🌱 I’m currently learning everything</h5> 
  
- <h5>👯 I’ve been working on Flutter for 3 year</h5>
+ <h5>👯 I’ve been working on Flutter for 4 year</h5>
  
  <h5>👩🏻‍💻 I’m studying computer engineering at Erciyes University (4/4)</h5>
  

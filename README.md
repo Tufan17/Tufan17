@@ -2,11 +2,11 @@
 
  <h5>I'm a Developer(22y) from Kayseri, Turkey 🇹🇷</h5>
  
- <h5>🔭 I’m currently working on Tepsi</h5>
+ <h5>🔭Co-Founder Tepsi</h5>
  
  <h5>🌱 I’m currently learning everything</h5> 
  
- <h5>👯 I’ve been working on Flutter for 4 year</h5>
+ <h5>👯 I’ve been working on software developer for 4 year</h5>
  
  <h5>👩🏻‍💻 I’m studying computer engineering at Erciyes University (4/4)</h5>
  

@@ -2,7 +2,7 @@
 
  <h5>I'm a Developer(22y) from Kayseri, Turkey 🇹🇷</h5>
  
- <h5>🔭Co-Founder Tepsi</h5>
+ <h5>🔭Co-Founder of Tepsi</h5>
  
  <h5>🌱 I’m currently learning everything</h5> 
  

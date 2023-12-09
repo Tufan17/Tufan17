@@ -8,7 +8,7 @@
  
  <h5>👯 I’ve been working on software developer for 4 year</h5>
  
- <h5>👩🏻‍💻 I’m studying computer engineering at Erciyes University (4/4)</h5>
+ <h5>👩🏻‍💻 I am a computer engineer</h5>
  
  
  

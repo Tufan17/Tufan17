@@ -1,6 +1,6 @@
 <h1> Hi there , I'm Memiş Ali 👋</h1> 
 
- <h5>I'm a Developer(23y) from Kayseri, Turkey 🇹🇷</h5>
+ <h5>I'm a Developer(24y) from Kayseri, Turkey 🇹🇷</h5>
  
  <h5>🔭Co-Founder of Tepsi</h5>
  
